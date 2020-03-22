@@ -2,7 +2,7 @@
 
 Pain expression detection from videos:
 
-Processing steps:
+Processing steps undertaken:
 
 1) Carefully select 18 Consecutive frames from videos distinctly showing the target expression (Pain and No pain).
 
@@ -12,11 +12,28 @@ Processing steps:
 
 4) Training and validation results are shown in 'Deep Learning Project.ipynb' file. (For demonstration purposes).
 
-5) To run 'Face crop.py' and 'Deep Learning Project.py' directly from the google Colab platform find the shareable link below:
+5) To test the results on a new testing dataset:
 
-a) Face crop: https://colab.research.google.com/drive/1CUof3vAM0kAkQ_uL5KKZBbY8I4UKQMNw
+a) Make two folders and name them 'pain' and 'Nopain'. Make subfolders for each video (containing 18 frames) inside each category (pain and Nopain).
 
-b) Deep Learning Project: https://colab.research.google.com/drive/1ECR1r0ju2UjBAVsLp2OsUimyAxeQ1lR5
+b) Add these two folders to your drive.
+
+c) Download the 3D CNN model with it's pre-trained weights from this github repository. Add the 'Pre-trained_model.h5' file to your google drive.
+
+d) Go to: https://colab.research.google.com/drive/1iZGmZG_mF-5ZU7iR44iqsAga0BinH03e
+
+e) Mount your Google drive in the above code.
+
+f) Make changes to 'load_model' path accordingly.
+
+g) Make changes to 'painpath' and 'Nopainpath' accordingly.
+
+h) Run all the cells in the notebook to get the Confusion matrix for your testing videos.
+
+
+
+
+
 
 
 
