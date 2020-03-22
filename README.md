@@ -24,7 +24,7 @@ d) Make changes to 'filename' name variable to provide a path for each video fil
 
 e) Download the 3D CNN model with it's pre-trained weights from this github repository. Add the 'Pre-trained_model.h5' file to your google drive.
 
-f) Go to: https://colab.research.google.com/drive/1iZGmZG_mF-5ZU7iR44iqsAga0BinH03e
+f) Testing notebook 'testing.py', Go to: https://colab.research.google.com/drive/1iZGmZG_mF-5ZU7iR44iqsAga0BinH03e
 
 g) Mount your Google drive in the above code.
 
