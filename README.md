@@ -8,7 +8,7 @@ Processing steps:
 
 2) Pass the video (18 frames) through 'frame.py' file to crop the faces from each frame. Note: The original image is lost after this operation.
 
-3) Run the 'Deep Learning Project.py' file which converts the video file into a 5D tensor to be fed into a 3D CNN model for classification.
+3) Run the 'Deep Learning Project.py' file which converts the video file into a 5D tensor and feeds it to a 3D CNN model for classification.
 
 
 
