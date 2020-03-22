@@ -20,7 +20,7 @@ b) Add these two folders to your drive.
 
 c) Go to: https://colab.research.google.com/drive/1CUof3vAM0kAkQ_uL5KKZBbY8I4UKQMNw
 
-d) Make changes to 'filename' name variable to provide a path for each video file inside the two folders 'Pain' and 'Nopain'.
+d) Make changes to 'filename' name variable to provide a path for each video file inside the two folders 'Pain' and 'Nopain'. This will employ face crop to your videos.
 
 e) Download the 3D CNN model with it's pre-trained weights from this github repository. Add the 'Pre-trained_model.h5' file to your google drive.
 
