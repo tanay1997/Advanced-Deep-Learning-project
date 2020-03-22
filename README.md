@@ -18,17 +18,21 @@ a) Make two folders and name them 'pain' and 'Nopain'. Make subfolders for each 
 
 b) Add these two folders to your drive.
 
-c) Download the 3D CNN model with it's pre-trained weights from this github repository. Add the 'Pre-trained_model.h5' file to your google drive.
+c) Go to: https://colab.research.google.com/drive/1CUof3vAM0kAkQ_uL5KKZBbY8I4UKQMNw
 
-d) Go to: https://colab.research.google.com/drive/1iZGmZG_mF-5ZU7iR44iqsAga0BinH03e
+d) Make changes to 'filename' name variable to provide a path for each video file inside the two folders 'Pain' and 'Nopain'.
 
-e) Mount your Google drive in the above code.
+e) Download the 3D CNN model with it's pre-trained weights from this github repository. Add the 'Pre-trained_model.h5' file to your google drive.
 
-f) Make changes to 'load_model' path accordingly.
+f) Go to: https://colab.research.google.com/drive/1iZGmZG_mF-5ZU7iR44iqsAga0BinH03e
 
-g) Make changes to 'painpath' and 'Nopainpath' accordingly.
+g) Mount your Google drive in the above code.
 
-h) Run all the cells in the notebook to get the Confusion matrix for your testing videos.
+h) Make changes to 'load_model' path accordingly.
+
+i) Make changes to 'painpath' and 'Nopainpath' accordingly.
+
+j) Run all the cells in the notebook to get the Confusion matrix for your testing videos.
 
 
 
