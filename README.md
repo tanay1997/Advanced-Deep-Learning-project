@@ -12,6 +12,14 @@ Processing steps:
 
 4) Training and validation results are shown in 'Deep Learning Project.ipynb' file. (For demonstration purposes).
 
+5) To run 'Face crop.py' and 'Deep Learning Project.py' directly from the google Colab platform find the shareable link below:
+
+a) Face crop: https://colab.research.google.com/drive/1CUof3vAM0kAkQ_uL5KKZBbY8I4UKQMNw
+
+b) Deep Learning Project: https://colab.research.google.com/drive/1ECR1r0ju2UjBAVsLp2OsUimyAxeQ1lR5
+
+
+
 
 
 
