@@ -22,7 +22,7 @@ c) Go to: https://colab.research.google.com/drive/1CUof3vAM0kAkQ_uL5KKZBbY8I4UKQ
 
 d) Make changes to 'filename' name variable to provide a path for each video file inside the two folders 'Pain' and 'Nopain'. This will employ face crop to your videos at the original destination itself.
 
-e) Download the 3D CNN model with it's pre-trained weights from this github repository. Add the 'Pre-trained_model.h5' file to your google drive. For the improvised version of this project download one of the following three pre-trained models: 1) 'Pre-trained_model_0.2%.h5' 2) 'Pre-trained_model_0.3%.h5' 3) 'Pre-trained_model_full.h5'.
+e) Download the 3D CNN model with it's pre-trained weights from this github repository. Add the 'Pre-trained_model.h5' file to your google drive. For the improvised version of this project download one of the following three pre-trained models: 1) 'Pre-trained_model_0.2%.h5' 2) 'Pre-trained_model_0.3%.h5' 3) 'Pre-trained_model_full.h5'. For the Transfer learning part of this project use the following pre-trained model: 'Pre-trained_model_transfer.h5'
 
 f) Testing notebook 'testing.py', Go to: https://colab.research.google.com/drive/1iZGmZG_mF-5ZU7iR44iqsAga0BinH03e
 
@@ -34,7 +34,7 @@ i) Make changes to 'painpath' and 'Nopainpath' accordingly.
 
 j) Run all the cells in the notebook to get the Confusion matrix for your testing videos.
 
-k) 'Testing.ipynb' is added to the repository to show results. (For demonstration only).
+k) 'Testing.ipynb' is added to the repository to show results. (For demonstration only). Use the notebook through Google colab.
 
 
 
