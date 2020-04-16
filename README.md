@@ -34,7 +34,7 @@ i) Make changes to 'painpath' and 'Nopainpath' accordingly.
 
 j) Run all the cells in the notebook to get the Confusion matrix for your testing videos.
 
-k) 'Testing.ipynb' is added to the repository to show results. (For demonstration only). Use the notebook through Google colab.
+k) 'Testing.ipynb' is added to the repository to show results. (For demonstration only). Use notebook through Google colab.
 
 
 
